@@ -2,6 +2,6 @@
   "name": "0xik",
   "website": "https://github.com/0xik",
   "description": "0xik",
-  "logo": "https://hizliresim.com/7gb427k",
+  "logo": "https://i.hizliresim.com/d9rcaqa.png",
   "twitter": "https://twitter.com/ibokabaa"
 }
